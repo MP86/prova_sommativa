@@ -24,6 +24,12 @@
     <!-- Custom CSS -->
     <link href="../css/tema.css" rel="stylesheet">
     
+    <!-- Social CSS -->
+    <link href="../css/social.css" rel="stylesheet">
+    
+    <link href="../css/sociallite.css" rel="stylesheet">
+    
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     
     
 
@@ -49,19 +55,17 @@
 				
 
     <div class="brand">Broccolo Bill</div>
-    <div class="address-bar">a
-    <br>Cesena</div>
+    <div class="address-bar">adesso
+    <br>a Cesena</div>
 
     
 	
 	
-	
-	
-	
-	
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2859.9370087641487!2d12.07071311567831!3d44.20836372437136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132ca4c5b9908ed3%3A0x1d0df6f5608214a5!2sCNA+Formazione!5e0!3m2!1sit!2sit!4v1458652468240"
-	width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-	   
+@yield('content')
+
+		
+	    
+
 
 	<div class="row">
             <div class="box">
@@ -69,13 +73,13 @@
                 	<div>
                 	
                 	<a class="fb-share-button"
-	                	 href="http://matteo.corsoanalistamobile.tk/"
+	                	 href="http://laravel.app/"
 	                	 data-layout="button">
 	                	 Condividi
                 	<a>
                 	
+						
 					
-	
                 	
                 </div>
             </div>
@@ -125,7 +129,7 @@
 				</script>
 				
     
-
+    			
 </body>
 
 </html>

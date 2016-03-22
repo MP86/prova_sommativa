@@ -52,11 +52,11 @@ Home
 						<br> <small> o </small> <br>
 						<small>Benvenuti in</small>
                     </h2>
-                    <h1 class="brand-name">Pensiero Relax</h1>
+                    <h1 class="brand-name">Brocccolo Bill</h1>
                     <hr class="tagline-divider">
                     <h2>
                         <small>By
-                            <strong>Andrea Bilotto e Matteo Pretolani</strong>
+                            <strong>Matteo Pretolani</strong>
                         </small>
                     </h2>
                 </div>
@@ -67,15 +67,15 @@ Home
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Idea di fondo:
-                        <strong>Perchè un sito?!?</strong>
+                    <h2 class="intro-text text-center">Per tutta la
+                        <strong>Famiglia!</strong>
                     </h2>
                     <hr>
-                    <img class="img-responsive img-border img-left" src="../img/relax.jpg" alt="scritta relax">
+                    
                     <hr class="visible-xs">
-                    <p>Il sito è stato pensato per voi.... I "gran stressati" che cercano un massaggio. Magari anche last-minute.</p>
-                    <p>Perchè oggi il loro stress sta arrivando alle stelle e sanno che quel che gli ci vuole è un pò di relax.</p>
-                    <p>Allora cosa aspetti?!? <a href="/contatti"><strong>Contattaci!!!!</strong></a> </p>
+                    <p>- menù per bambini</p>
+                    <p>- spazio giochi</p>
+                    <p>- animazione</p>
                 </div>
             </div>
         </div>
@@ -84,26 +84,35 @@ Home
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Il motivo:
-                        <strong>Sceglierci perchè?!?</strong>
+                    <h2 class="intro-text text-center">Contatto
+                        <strong>massaggio rilassante</strong>
                     </h2>
                     <hr>
-                    <p>Siamo professionisti che offrono un servizio anche a domicilio.</p>
-                    <p>Questo perchè non essendo una spa rilassante, pensiamo che il cliente possa essere più rilassato a casa propria.
-					Piuttosto che, appena usciti dal lavoro, andarsi a far fare un massaggio, cercando parcheggio chissà dove rischiando
-					di fare tardi o comunque stressarsi ancor di più! In ogni caso se in studio o a casa lo decidete voi l'importante,
-					per noi, è che siate a vostro agio.</p>
-					<hr>
-					<img class="img-responsive img-border img-center" src="../img/zen.jpg" alt="pietre zen">
-					<hr>
-					<h3><strong>I massaggi a casa vostra, in tutta la provincia di Forlì-Cesena (FC)</strong></h3>
-					<hr>
                 </div>
+                <div class="col-md-8">
+                    <!-- Embedded Google Map using an iframe - to select your location find it on Google maps and paste the link as the iframe src. If you want to use the Google Maps API instead then have at it! -->
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2867.8764772312234!2d12.177751315355561!3d44.04460697910981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132c98a6b10f49ef%3A0x16c13e2b2ff965b9!2sVia+Nilde+Iotti%2C+69%2C+47025+Mercato+Saraceno+FC!5e0!3m2!1sit!2sit!4v1458518955564"
+                    width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" ></iframe>
+                </div>
+                
+                <div class="col-md-4">
+                	<p>Nome:
+                        <strong>Matteo</strong>
+                    </p>
+                    <p>Telefono:
+                        <strong>3405628426</strong>
+                    </p>
+                    <p>Email:
+                        <strong><a href="mailto:matteopretolani86@gmail.com">matteopretolani86@gmail.com</a></strong>
+                    </p>
+                    <p>Indirizzo:
+                        <strong>Via Nilde Iotti N°69
+                            <br>Bora (Mercato Saraceno), FC 47025</strong>
+                    </p>
+                </div>
+                <div class="clearfix"></div>
             </div>
         </div>
-
-    </div>
-    <!-- /.container -->
     
 @stop
 
